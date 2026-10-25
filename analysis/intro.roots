@@ -1,0 +1,3 @@
+&ebcc	# gap entry, from pc=&ebc8 LR=&ffffffff
+&ebf8	# gap entry, from pc=&ebf4 LR=&fffffbfa
+&ebfc	# gap entry, from pc=&ebf8 LR=&ffffffff
